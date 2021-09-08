@@ -1,5 +1,5 @@
 # Weekly Accomplishments
-A running log of my weekly work accomplishments as I grow in my new role.
+When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly work accomplishments as I grow in my new role.
 
 
 Week | Accomplishments
