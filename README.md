@@ -8,4 +8,4 @@ Week | Accomplishments
 2 | Began work to align the curriculums of multiple courses into one unified offering. Restructured existing course material into a cohesive storyboard flow using backwards design. Created tools for self-assessment as well as instructor-directed feedback.
 3 | Constructed assessments for a variety of technical skills within the genres of Augmented Reality, Virtual Reality, and Artificial Intelligence. Conceptualized and managed a validation system for bringing external assets before SMEs for approval.
 4 | Collaborated with an international team of remote workers to produce a unified educational experience. Initiated the construction of an eLearning unit based on the feedback of the stakeholder team. Produced training modules that incorporated Quality Assurance feedback into the daily scope of instructional work.
-5 | Assumed course creation team facilitator role in the absence of Director of Instruction. 
+5 | Assumed course creation team facilitator role in the absence of Director of Instruction. Married Quality Assurance feedback to gaps in Instructional Support, creating scaffolding materials to enhance instructor-led learning.
