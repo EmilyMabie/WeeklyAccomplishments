@@ -9,3 +9,4 @@ Week | Accomplishments
 3 | Constructed assessments for a variety of technical skills within the genres of Augmented Reality, Virtual Reality, and Artificial Intelligence. Conceptualized and managed a validation system for bringing external assets before SMEs for approval.
 4 | Collaborated with an international team of remote workers to produce a unified educational experience. Initiated the construction of an eLearning unit based on the feedback of the stakeholder team. Produced training modules that incorporated Quality Assurance feedback into the daily scope of instructional work.
 5 | Assumed course creation team facilitator role in the absence of Director of Instruction. Married Quality Assurance feedback to gaps in Instructional Support, creating scaffolding materials to enhance instructor-led learning. Measured a 22% increase in performance criteria adherence after scaffolding modules had been in use for one week.
+6 | ...
