@@ -20,4 +20,4 @@ Week | Accomplishments
 9 | Constructed three weeks of LinkedIn and Resume preparation materials, including structures for peer review and group feedback. Presented an alignment proposal to various teams for feedback and refinement. Offboarded a project by collecting data on Instructional Design performance from the team and tapering involvement.
 10 | Integrated three different high-needs projects into Instructional Design daily work flow. Lead Learning Science Data meeting to expose team members to the data engineering work of peers and better inform Instructional Design practices. Received an evaluation of my work stating that "eLearning product has improved 75-80% since Instructional Designer's involvement, taking our course from eReading to eLearning."
 11 | Demonstrated productivity software for internal teams. Enabled a company-wide team of stakeholders to provide feedback on a long-term project with multiple iterations. Drafted and presented the Instructional Design KPIs for 2022.
-12 | ...
+12 | Presented my two week outlook during Agile sprint meeting, and planned for fullfilling all needs of our two week sprint.
