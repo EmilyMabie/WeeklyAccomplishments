@@ -22,3 +22,4 @@ Week | Accomplishments
 11 | Demonstrated productivity software for internal teams. Enabled a company-wide team of stakeholders to provide feedback on a long-term project with multiple iterations. Drafted and presented the Instructional Design KPIs for 2022.
 12 | Presented my two week outlook during Agile sprint meeting, and planned for fullfilling all needs of our two week sprint. Authored four weeks of job preparation materials, including mock interview scripts. Drafted interdepartmental project feedback surveys.
 13 | Project Managed a B2B relationship involving elements of mentorship. Consulted on the UX/UI design of redeveloped learning platform. Presented Diversity, Equity, and Inclusion training to staff.
+14 | ...
