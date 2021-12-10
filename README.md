@@ -23,4 +23,4 @@ Week | Accomplishments
 12 | Presented my two week outlook during Agile sprint meeting, and planned for fullfilling all needs of our two week sprint. Authored four weeks of job preparation materials, including mock interview scripts. Drafted interdepartmental project feedback surveys.
 13 | Project Managed a B2B relationship involving elements of mentorship. Consulted on the UX/UI design of redeveloped learning platform. Presented Diversity, Equity, and Inclusion training to staff.
 14 | Analyzed and evaluated third party software solutions. Contributed to a team working to expand offerings to new age groups and demographics. Created a responsibility matrix for use in mentorship programming.
-15 | Authored a curriculum proposal for B2B client needs. Project Managed a flagship initiative involving a new age-based demographic of learners.
+15 | Collected internal data to measure the impact of the Instructional Design department. Authored a curriculum proposal for B2B client needs. Project Managed a flagship initiative involving a new age-based demographic of learners.
