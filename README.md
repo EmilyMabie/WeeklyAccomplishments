@@ -24,4 +24,5 @@ Week | Accomplishments
 13 | Project Managed a B2B relationship involving elements of mentorship. Consulted on the UX/UI design of redeveloped learning platform. Presented Diversity, Equity, and Inclusion training to staff.
 14 | Analyzed and evaluated third party software solutions. Contributed to a team working to expand offerings to new age groups and demographics. Created a responsibility matrix for use in mentorship programming.
 15 | Collected internal data to measure the impact of the Instructional Design department. Authored a curriculum proposal for B2B client needs. Project Managed a flagship initiative involving a new age-based demographic of learners.
-16 | Worked with data scientist to profile learner clusters. Authored a Standard Operating Procedure document. 
+16 | Worked with data scientist to profile learner clusters. Authored a Standard Operating Procedure document. Distilled departmental metrics for internal evaluation.
+17 | Co-presented departmental metrics to company leadership. 
