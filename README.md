@@ -26,3 +26,4 @@ Week | Accomplishments
 15 | Collected internal data to measure the impact of the Instructional Design department. Authored a curriculum proposal for B2B client needs. Project Managed a flagship initiative involving a new age-based demographic of learners.
 16 | Worked with data scientist to profile learner clusters. Authored a Standard Operating Procedure document. Distilled departmental metrics for internal evaluation.
 17 | Presented departmental metrics to company leadership. Drafted and revised slide decks to support interdepartmental interfacing. 
+18 | Designed job-aids and infographics to train staff on company policy implementation.
