@@ -27,4 +27,4 @@ Week | Accomplishments
 16 | Worked with data scientist to profile learner clusters. Authored a Standard Operating Procedure document. Distilled departmental metrics for internal evaluation.
 17 | Presented departmental metrics to company leadership. Drafted and revised slide decks to support interdepartmental interfacing. 
 18 | Designed job-aids and infographics to train staff on company policy implementation. Project managed and re-oriented project teams to timelines and priorities after holiday break.
-19 | Created an internal guide for informational modalities. Authored and updated sections of the curriculum handbook.
+19 | Created an internal guide for informational modalities. Authored and updated sections of the curriculum handbook. Researched and compiled information on Articulation Agreements.
