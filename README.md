@@ -31,3 +31,4 @@ Week | Accomplishments
 20 | Interviewed potential Instructional Designer candidates. Scripted and published an entire training course for authoring Impactful Group Activities.
 21 | Scripted, recorded, edited, and published training videos on competency-based education. Revised learning modules on the LMS.
 22 | 
+23 | 
