@@ -30,5 +30,5 @@ Week | Accomplishments
 19 | Created an internal guide for informational modalities. Authored and updated sections of the curriculum handbook. Researched and compiled information on Articulation Agreements. Designed multiple infographics and job aids for company-wide support.
 20 | Interviewed potential Instructional Designer candidates. Scripted and published an entire training course for authoring Impactful Group Activities.
 21 | Scripted, recorded, edited, and published training videos on competency-based education. Revised learning modules on the LMS.
-22 | 
+22 | Developed guidelines for group activities. Audited existing content for best practices and company standards. 
 23 | 
