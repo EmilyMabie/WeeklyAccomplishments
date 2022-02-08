@@ -29,6 +29,6 @@ Week | Accomplishments
 18 | Designed job-aids and infographics to train staff on company policy implementation. Project managed and re-oriented project teams to timelines and priorities after holiday break.
 19 | Created an internal guide for informational modalities. Authored and updated sections of the curriculum handbook. Researched and compiled information on Articulation Agreements. Designed multiple infographics and job aids for company-wide support.
 20 | Interviewed potential Instructional Designer candidates. Scripted and published an entire training course for authoring Impactful Group Activities.
-21 | Scripted, recorded, edited, and published training videos on competency-based education. Revised learning modules on the LMS.
-22 | Developed guidelines for group activities. Audited existing content for best practices and company standards. 
+21 | Scripted, recorded, edited, and published training videos on competency-based education. Revised learning modules on the LMS. Established project management of two additional projects (total: 5).
+22 | Developed guidelines for group activities. Audited existing content for best practices and company standards.
 23 | 
