@@ -33,3 +33,4 @@ Week | Accomplishments
 22 | Developed guidelines for group activities. Audited existing content for best practices and company standards. Cultivated interdepartmental integration efforts.
 23 | Transitioned project load to a regional (domestic) focus. Managed data collection and analysis. Presented findings to senoir leadership.
 24 | Used HTML and CSS to develop visual scaffolding and support for students within the LMS.
+25 | 
