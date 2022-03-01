@@ -31,7 +31,7 @@ Week | Accomplishments
 20 | Interviewed potential Instructional Designer candidates. Scripted and published an entire training course for authoring Impactful Group Activities.
 21 | Scripted, recorded, edited, and published training videos on competency-based education. Revised learning modules on the LMS. Established project management of two additional projects (total: 5).
 22 | Developed guidelines for group activities. Audited existing content for best practices and company standards. Cultivated interdepartmental integration efforts.
-23 | Transitioned project load to a regional (domestic) focus. Managed data collection and analysis. Presented findings to senoir leadership.
+23 | Transitioned project load to a regional (domestic) focus. Packaged and offloaded international projects to new team designees. Managed data collection and analysis. Presented findings to senoir leadership.
 24 | Used HTML and CSS to develop visual scaffolding and support for students within the LMS. Project Managed five simultaneous long-range projects.
 25 | 
 26 | SIX MONTH ANNIVERSARY!
