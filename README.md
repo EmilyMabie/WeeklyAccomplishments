@@ -34,3 +34,4 @@ Week | Accomplishments
 23 | Transitioned project load to a regional (domestic) focus. Managed data collection and analysis. Presented findings to senoir leadership.
 24 | Used HTML and CSS to develop visual scaffolding and support for students within the LMS. Project Managed five simultaneous long-range projects.
 25 | 
+26 | SIX MONTH ANNIVERSARY!
