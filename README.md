@@ -1,5 +1,5 @@
 <h1 align="center">
-Weekly Accomplishments
+Weekly & Monthly Accomplishments
   </h1>
   
 ![alt text](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
