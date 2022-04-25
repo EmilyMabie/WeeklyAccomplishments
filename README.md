@@ -42,5 +42,5 @@ Month | Accomplishments
 ------------ | -------------
 Month Six | Transitioned to focus on domestic curriculums.
 Month Seven | ...
-Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. 
+Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. Revised and edited the template course used for new content creation in the LMS. Advised UX/UI/Development departments on Curriculum Admin needs.
 
