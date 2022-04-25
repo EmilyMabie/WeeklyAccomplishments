@@ -34,6 +34,7 @@ Week | Accomplishments
 23 | Transitioned project load to a regional (domestic) focus. Packaged and offloaded international projects to new team designees. Managed data collection and analysis. Presented findings to senoir leadership.
 24 | Used HTML and CSS to develop visual scaffolding and support for students within the LMS. Project Managed five simultaneous long-range projects. Integrated data scientists' and instructors' insights into the revision of course materials.
 25 | Teamed with curriculum, UX, and development staff to curate a student-centered response to metrics.
-26 - Month Six | SIX MONTH ANNIVERSARY!
+Month Six | SIX MONTH ANNIVERSARY! Transitioned to focus on domestic curriculums.
 Month Seven | ...
+Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. 
 
