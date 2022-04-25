@@ -36,6 +36,8 @@ Week | Accomplishments
 25 | Teamed with curriculum, UX, and development staff to curate a student-centered response to metrics.
 26 | SIX MONTH ANNIVERSARY! 
 
+Switching to "Months" for better readability! 
+
 Month | Accomplishments
 ------------ | -------------
 Month Six | Transitioned to focus on domestic curriculums.
