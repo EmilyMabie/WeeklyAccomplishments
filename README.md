@@ -41,6 +41,6 @@ Switching to "Months" for better readability!
 Month | Accomplishments
 ------------ | -------------
 Month Six | Transitioned to focus on domestic curriculums.
-Month Seven | ...
-Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. Revised and edited the template course used for new content creation in the LMS. Advised UX/UI/Development departments on Curriculum Admin needs.
+Month Seven | Performed "deep dive" audit and revision of programs to address retention. 
+Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. Revised and edited the template course used for new content creation in the LMS. Advised UX/UI/Development departments on Curriculum Admin needs. Co-authored, scripted, storyboarded, filmed, and edited a five video series on metacognition.
 
