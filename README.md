@@ -40,7 +40,7 @@ Switching to "Months" for better readability!
 
 Month | Accomplishments
 ------------ | -------------
-Month Six | Transitioned to focus on domestic curriculums.
-Month Seven | Performed "deep dive" audit and revision of programs to address retention. 
+Month Six | Transitioned to focus on domestic curriculums. Completed in-depth audit and revision of pre-enrollment coursework.
+Month Seven | Performed "deep dive" audit and revision of programs to address retention. Authored complete SOPs with supporting documentation.
 Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. Revised and edited the template course used for new content creation in the LMS. Advised UX/UI/Development departments on Curriculum Admin needs. Co-authored, scripted, storyboarded, filmed, and edited a five video series on metacognition.
-
+Month Nine | Authored SOP on authentic mentor partnership between private organizations. Onboarded new Instructional Designers to the team. 
