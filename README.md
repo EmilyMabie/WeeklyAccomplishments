@@ -48,3 +48,4 @@ Month Eight | Vetted, interviewed, and recommended candidates for additional Ins
 Month Nine | Authored SOP on authentic mentor partnership between private organizations. Onboarded new Instructional Designers to the team. Conceptualized, created, and deployed multimedia supports for targeted student success. 
 Month Ten | Initiated a quarterly initiative project. Project-managed large-scale project (including compiling meta-analysis of existing research, presenting recommendations, roadmapping milestones, assigning roles and stakeholder teams, and designing product).
 Month Eleven | Project outcome measured to indicate a nearly 50% reduction in drops. Scripted, compiled, and edited video components for learning artifacts.
+Month Twelve | ...
