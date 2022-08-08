@@ -47,5 +47,5 @@ Month Seven | Performed "deep dive" audit and revision of programs to address re
 Month Eight | Vetted, interviewed, and recommended candidates for additional Instructional Designer roles. Revised and edited the template course used for new content creation in the LMS. Advised UX/UI/Development departments on Curriculum Admin needs. Co-authored, scripted, storyboarded, filmed, and edited a five video series on metacognition.
 Month Nine | Authored SOP on authentic mentor partnership between private organizations. Onboarded new Instructional Designers to the team. Conceptualized, created, and deployed multimedia supports for targeted student success. 
 Month Ten | Initiated a quarterly initiative project. Project-managed large-scale project (including compiling meta-analysis of existing research, presenting recommendations, roadmapping milestones, assigning roles and stakeholder teams, and designing product).
-Month Eleven | Project outcome measured to indicate a nearly 50% reduction in drops. Scripted, compiled, and edited video components for learning artifacts.
+Month Eleven | Project outcome measured to indicate a nearly 50% reduction in drops. Scripted, compiled, and edited video components for learning artifacts. Created the org's first affinity group, establishing internal community for LGBTQIA+ staff.
 Month Twelve | One year at Coding Dojo!
