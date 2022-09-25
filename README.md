@@ -37,7 +37,7 @@ Week | Accomplishments
 26 | SIX MONTH ANNIVERSARY! 
 
 <h4>
-Switching to "Months" for better readability! 
+Switching from "Weeks" to "Months" for better readability! 
   </h4>
 
 Month | Accomplishments
