@@ -1,5 +1,6 @@
 <h1 align="center">
 Weekly & Monthly Accomplishments
+Instructional Designer - Coding Dojo
   </h1>
   
 ![alt text](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
