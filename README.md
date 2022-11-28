@@ -1,15 +1,14 @@
 <h1 align="center">
 Weekly & Monthly Accomplishments
   </h1>
-  
-<h2 align="center">
-Instructional Designer - Coding Dojo
-  </h2>
 
 ![alt text](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
 
 When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly work accomplishments during my time as an Instructional Designer at Coding Dojo!
 
+<h2 align="center">
+Instructional Designer - Coding Dojo
+  </h2>
 
 Week | Accomplishments
 ------------ | -------------
