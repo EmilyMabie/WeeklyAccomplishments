@@ -4,7 +4,17 @@ Weekly & Monthly Accomplishments
 
 ![alt text](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
 
-When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly work accomplishments during my time as an Instructional Designer at Coding Dojo!
+When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly and/or monthly work accomplishments during my time as an Instructional Designer at Coding Dojo and as a Learning Designer at Zapier!
+
+<h2 align="center">
+Learning Designer - Zapier
+  </h2>
+
+Month | Accomplishments
+------------ | -------------
+1 | Connected with cross-departmental staff members to explore insights, experiences, and ideas for manager enablement. Met first month progress benchmarks by executing 100% of expected tasks.
+2 | ...
+
 
 <h2 align="center">
 Instructional Designer - Coding Dojo
