@@ -7,13 +7,16 @@ Weekly & Monthly Accomplishments
 When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly and/or monthly work accomplishments during my time as an Instructional Designer at Coding Dojo and as a Learning Designer at Zapier!
 
 <h2 align="center">
-Learning Designer - Zapier
+Learning Designer, Manager Enablement - Zapier
   </h2>
 
 Month | Accomplishments
 ------------ | -------------
 1 | Connected with cross-departmental staff members to explore insights, experiences, and ideas for manager enablement. Met first month progress benchmarks by executing 100% of expected tasks.
 2 | ...
+3 | ...
+4 | ...
+5 | Revamped Manager-Specific Community Rituals by Redesigning interactions between various manager-specific programs to optimize engagement and collaboration. Highlighted purpose, value, relationships, and contrasts between sessions, emphasizing how each supports manager skills development. Updated manager enablement community component messaging to align with organizational goals and objectives. Strategized Relaunch/Renaming of Manager-Specific Programming by leading the planning and implementation of the relaunch and renaming of manager-specific programming, focusing on performance enablement training. Gathered input from key stakeholders to refine and enhance the new program format. Developed and implemented a Zapier automation to streamline facilitator confirmation processes for new manager initiatives, reducing manual workload and improving efficiency. Provided constructive feedback to team members, fostering a culture of continuous improvement and collaboration. 
 
 
 <h2 align="center">
