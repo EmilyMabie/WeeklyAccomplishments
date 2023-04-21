@@ -2,7 +2,7 @@
 Weekly & Monthly Accomplishments
   </h1>
 
-![alt text](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
+![An illustration of writing accomplishments on a list.](https://github.com/EmilyMabie/WeeklyAccomplishments/blob/main/Screen%20Shot%202021-10-27%20at%209.02.55%20AM.png)
 
 When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly and/or monthly work accomplishments during my time as an Instructional Designer at Coding Dojo and as a Learning Designer at Zapier!
 
@@ -13,8 +13,8 @@ Learning Designer, Manager Enablement - Zapier
 Month | Accomplishments
 ------------ | -------------
 1 | Connected with cross-departmental staff members to explore insights, experiences, and ideas for manager enablement. Met first month progress benchmarks by executing 100% of expected tasks.
-2 | ...
-3 | ...
+2 | Built trust and familiarity through initial stakeholder interactions; assessed action mapping's relevance to desired outcomes. Developed a project plan for stakeholder group review and analyzed historical materials, noting key insights. Conducted H1 Manager Enablement Project Kickoff Meeting, fostering collaborative ideation with stakeholders on learning design and Action Mapping. Collaborated with team members on Manager Communications for the All-Company Retreat, cultivating cross-departmental synergy. Executed 100% of expected sixty day tasks (from the "30/60/90 plan") prior to the deadline of 60 days.
+3 | Revised performance enablement system illustration through 13 iterations, optimizing the understanding of the performance enablement process for managers. Executed 100% of 30/60/90 Ramp Plan tasks prior to the deadline of 90 days.
 4 | ..
 5 | Redesigned manager-specific programs to boost engagement and collaboration; emphasized skill development and alignment with organizational goals. Led relaunch and renaming of manager-specific programming, focusing on performance enablement training; gathered stakeholder input for enhancements. Implemented Zapier automation to streamline facilitator confirmations, reducing manual workload and improving efficiency. Fostered continuous improvement and collaboration through constructive feedback to team members. 
 
