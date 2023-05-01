@@ -18,6 +18,8 @@ Month | Accomplishments
 4 | Obtained Birkman certification and authored two e-learning modules for managers to practice performance enablement concepts. Contributed as a stakeholder to Workplace Wellness, ERG Leadership, and External Coaching projects. Created content and hosted an All Company Hangout for >800 coworkers, fostering engagement and communication as well as a whole-company calibration around performance enablement practices. Conceptualized a relationship between performance and growth, integrated it into manager materials.
 5 | Redesigned manager-specific programs to boost engagement and collaboration; emphasized skill development and alignment with organizational goals. Led relaunch and renaming of manager-specific programming, focusing on performance enablement training; gathered stakeholder input for enhancements. Implemented Zapier automation to streamline facilitator confirmations, reducing manual workload and improving efficiency. Fostered continuous improvement and collaboration through constructive feedback to team members. Facilitated manager activation regarding culture survey rollout and response.
 
+6 | Developed and implemented a comprehensive communication plan for the successful rollout of Manager Workshops, ensuring clear and consistent messaging across all channels. Achieved a 15% reduction in text weight within Manager HQ pages and Lessonly content, streamlining information and enhancing user experience for managers. Conducted a targeted survey with team members who failed to construct performance goals by the specified deadline, identifying barriers and providing tailored support to increase engagement and goal-setting compliance.
+
 
 <h2 align="center">
 Instructional Designer - Coding Dojo
