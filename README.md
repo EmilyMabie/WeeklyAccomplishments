@@ -39,7 +39,7 @@ Month | Accomplishments
 7 | Published a [blog post on top AI agent workflows for HR](https://zapier.com/blog/ai-agents-for-hr/), contributing to the company's thought leadership in the HR automation space. Completed Sales enablement responsibilities and prepared for formal role transition. Closed out the interim assignment having achieved all Sales Enablement and People Team AI fluency targets.
 
 <h2 align="center">
-Learning Designer, Manager Enablement - Zapier
+Sr. Learning Designer, Manager Enablement - Zapier
   </h2>
 <h4 align="center">
 February 2023 – February 2025
