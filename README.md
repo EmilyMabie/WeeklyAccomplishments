@@ -7,8 +7,43 @@ Weekly & Monthly Accomplishments
 When you reach the top of a mountain, it can be hard to look back at where you started and realize just how hard you worked to ascend. To ensure I never lose sight of my progress, this is a running log of my weekly and/or monthly work accomplishments during my time as an Instructional Designer at Coding Dojo, as a Learning Designer at Zapier, and as a Sr. AI Automation Engineer for HR at Zapier!
 
 <h2 align="center">
+Sr. AI Automation Engineer for HR - Zapier
+  </h2>
+<h4 align="center">
+October 2025 – Present
+  </h4>
+
+Month | Accomplishments
+------------ | -------------
+1 | Formally transitioned into a newly created role as the company's first AI Automation Engineer for HR, promoted to Senior (IC4) through a self-advocacy promotion. Hit the ground running with customer-facing HR workflow builds, contributing to the HR vertical's first major pipeline milestone. Presented the "Boundless: The Art of the Possible" masterclass on how AI is transforming HR for an external audience.
+2 | Drove explosive growth in the HR vertical pipeline — contributing to a 400%+ increase in deal pipeline and 150%+ growth in new deals month-over-month. Co-authored a byline on AI integration survey findings. Published HR automation starter templates and expanded the company's public HR solutions library. Led the "AI Agents for Employee Experience" masterclass.
+3 | Led two "AI Agents for HR Leaders" webinars for external audiences. Interviewed on [TechStrong TV](https://techstrong.tv/) about AI survey findings and the future of HR automation. Initiated internal enablement work, including department-level automation workshops. Sustained pipeline expansion through continued enterprise deal support.
+4 | Co-led AI automation workshops for enterprise customers, demonstrating practical builds for HR and Finance. Launched the "Kickstart Your AI Fluency" internal campaign for the People Team, focused on manager enablement and practical skill-building. Featured as an industry expert in [Deel](https://www.deel.com/blog/ai-training-guide/), [People Managing People](https://peoplemanagingpeople.com/hr-operations/ai-transformation-for-mid-market-companies/), and [TechRadar](https://www.techradar.com/pro/lots-of-businesses-are-replacing-workers-with-ai-agents-but-its-not-a-simple-swap), contributing commentary on AI's impact on HR, workforce transformation, and upskilling. Engaged with a Fortune 500 hospitality company on HR AI fluency strategy.
+5 | Featured in [Charter](https://www.charterworks.com/) on AI in performance reviews. Drafted a bylined article for Fast Company on AI fluency as the new digital literacy. Continued supporting 12+ enterprise deals as the HR automation subject matter expert. Accepted a speaking invitation for the CultureCon AI Summit. Drove the product feedback loop by surfacing feature requests from both internal and external users to the Product team. Began drafting a cross-functional proposal to address data access constraints that limited internal HR automation adoption.
+
+<h2 align="center">
+Sales Enablement Designer (Interim) - Zapier
+  </h2>
+<h4 align="center">
+March 2025 – September 2025
+  </h4>
+
+Month | Accomplishments
+------------ | -------------
+1 | Executed the advanced product certification training program for the Sales and Success teams. Continued building the HR vertical alongside Sales, packaging rich workflow templates for high-value HR use cases valued at >$5K each. Cross-validated 2–3 promising HR use cases with customer design partners.
+2 | Reached the "go/no-go" milestone for the HR vertical — leadership approved proceeding with a full launch based on strong customer traction and deal validation. Continued Sales enablement programming while supporting early enterprise deal cycles in the HR space.
+3 | Supported the formal launch of the HR automation vertical, including go-to-market coordination and customer-facing assets. Achieved 90% Sales team completion of the advanced product certification training. Continued bridging Sales enablement expertise with HR use case design for enterprise customers.
+4 | Maintained Sales enablement responsibilities while deepening HR vertical involvement. Supported enterprise deal cycles and refined solution designs for complex HR automation use cases. Contributed to customer workshops demonstrating AI-powered HR workflows.
+5 | Launched AI Skill Building Workshops and an AI Help Desk for the People Team, driving AI fluency adoption across the department. Hosted the first open office hours for hands-on AI support. Began tracking support requests through automated intake systems to measure demand and surface common pain points.
+6 | Continued scaling AI enablement across the People Team through workshops and 1:1 support. Achieved target scores on internal AI fluency survey measures, demonstrating measurable confidence improvement across the department. Deepened involvement in enterprise HR deals as the vertical gained momentum.
+7 | Published a [blog post on top AI agent workflows for HR](https://zapier.com/blog/ai-agents-for-hr/), contributing to the company's thought leadership in the HR automation space. Completed Sales enablement responsibilities and prepared for formal role transition. Closed out the interim assignment having achieved all Sales Enablement and People Team AI fluency targets.
+
+<h2 align="center">
 Learning Designer, Manager Enablement - Zapier
   </h2>
+<h4 align="center">
+February 2023 – February 2025
+  </h4>
 
 Month | Accomplishments
 ------------ | -------------
@@ -39,34 +74,11 @@ Month | Accomplishments
 25 | Launched the Sales Enablement training rollout targeting 90% team completion. Continued customer validation for the HR vertical, pressure-testing use cases with current and prospective customers. Prepared for formal transition into a Sales Enablement interim role, marking the end of a 25-month tenure in Learning Design.
 
 <h2 align="center">
-Sales Enablement Designer (Interim) - Zapier
-  </h2>
-
-Month | Accomplishments
------------- | -------------
-1 | Executed the advanced product certification training program for the Sales and Success teams. Continued building the HR vertical alongside Sales, packaging rich workflow templates for high-value HR use cases valued at >$5K each. Cross-validated 2–3 promising HR use cases with customer design partners.
-2 | Reached the "go/no-go" milestone for the HR vertical — leadership approved proceeding with a full launch based on strong customer traction and deal validation. Continued Sales enablement programming while supporting early enterprise deal cycles in the HR space.
-3 | Supported the formal launch of the HR automation vertical, including go-to-market coordination and customer-facing assets. Achieved 90% Sales team completion of the advanced product certification training. Continued bridging Sales enablement expertise with HR use case design for enterprise customers.
-4 | Maintained Sales enablement responsibilities while deepening HR vertical involvement. Supported enterprise deal cycles and refined solution designs for complex HR automation use cases. Contributed to customer workshops demonstrating AI-powered HR workflows.
-5 | Launched AI Skill Building Workshops and an AI Help Desk for the People Team, driving AI fluency adoption across the department. Hosted the first open office hours for hands-on AI support. Began tracking support requests through automated intake systems to measure demand and surface common pain points.
-6 | Continued scaling AI enablement across the People Team through workshops and 1:1 support. Achieved target scores on internal AI fluency survey measures, demonstrating measurable confidence improvement across the department. Deepened involvement in enterprise HR deals as the vertical gained momentum.
-7 | Published a [blog post on top AI agent workflows for HR](https://zapier.com/blog/ai-agents-for-hr/), contributing to the company's thought leadership in the HR automation space. Completed Sales enablement responsibilities and prepared for formal role transition. Closed out the interim assignment having achieved all Sales Enablement and People Team AI fluency targets.
-
-<h2 align="center">
-Sr. AI Automation Engineer for HR - Zapier
-  </h2>
-
-Month | Accomplishments
------------- | -------------
-1 | Formally transitioned into a newly created role as the company's first AI Automation Engineer for HR, promoted to Senior (IC4) through a self-advocacy promotion. Hit the ground running with customer-facing HR workflow builds, contributing to the HR vertical's first major pipeline milestone. Presented the "Boundless: The Art of the Possible" masterclass on how AI is transforming HR for an external audience.
-2 | Drove explosive growth in the HR vertical pipeline — contributing to a 400%+ increase in deal pipeline and 150%+ growth in new deals month-over-month. Co-authored a byline on AI integration survey findings. Published HR automation starter templates and expanded the company's public HR solutions library. Led the "AI Agents for Employee Experience" masterclass.
-3 | Led two "AI Agents for HR Leaders" webinars for external audiences. Interviewed on [TechStrong TV](https://techstrong.tv/) about AI survey findings and the future of HR automation. Initiated internal enablement work, including department-level automation workshops. Sustained pipeline expansion through continued enterprise deal support.
-4 | Co-led AI automation workshops for enterprise customers, demonstrating practical builds for HR and Finance. Launched the "Kickstart Your AI Fluency" internal campaign for the People Team, focused on manager enablement and practical skill-building. Featured as an industry expert in [Deel](https://www.deel.com/blog/ai-training-guide/), [People Managing People](https://peoplemanagingpeople.com/hr-operations/ai-transformation-for-mid-market-companies/), and [TechRadar](https://www.techradar.com/pro/lots-of-businesses-are-replacing-workers-with-ai-agents-but-its-not-a-simple-swap), contributing commentary on AI's impact on HR, workforce transformation, and upskilling. Engaged with a Fortune 500 hospitality company on HR AI fluency strategy.
-5 | Featured in [Charter](https://www.charterworks.com/) on AI in performance reviews. Drafted a bylined article for Fast Company on AI fluency as the new digital literacy. Continued supporting 12+ enterprise deals as the HR automation subject matter expert. Accepted a speaking invitation for the CultureCon AI Summit. Drove the product feedback loop by surfacing feature requests from both internal and external users to the Product team. Began drafting a cross-functional proposal to address data access constraints that limited internal HR automation adoption.
-
-<h2 align="center">
 Instructional Designer - Coding Dojo
   </h2>
+<h4 align="center">
+November 2021 – January 2023
+  </h4>
 
 Week | Accomplishments
 ------------ | -------------
